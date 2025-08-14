@@ -1,6 +1,6 @@
 <?php
 
-namespace IbrahimBougaoua\FilaProgress\Database\Factories;
+namespace Esagod\FilaProgress\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 

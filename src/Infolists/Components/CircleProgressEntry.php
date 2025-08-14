@@ -1,6 +1,6 @@
 <?php
 
-namespace IbrahimBougaoua\FilaProgress\Infolists\Components;
+namespace Esagod\FilaProgress\Infolists\Components;
 
 use Filament\Infolists\Components\Entry;
 

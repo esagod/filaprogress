@@ -1,16 +1,16 @@
 <?php
 
-namespace IbrahimBougaoua\FilaProgress\Facades;
+namespace Esagod\FilaProgress\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \IbrahimBougaoua\FilaProgress\FilaProgress
+ * @see \Esagod\FilaProgress\FilaProgress
  */
 class FilaProgress extends Facade
 {
     protected static function getFacadeAccessor(): string
     {
-        return \IbrahimBougaoua\FilaProgress\FilaProgress::class;
+        return \Esagod\FilaProgress\FilaProgress::class;
     }
 }

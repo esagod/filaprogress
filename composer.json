@@ -1,17 +1,17 @@
 {
-    "name": "ibrahim-bougaoua/filaprogress",
+    "name": "esagod/filaprogress",
     "description": "This is my package filaprogress",
     "keywords": [
-        "IbrahimBougaoua",
+        "Esagod",
         "laravel",
         "filaprogress"
     ],
-    "homepage": "https://github.com/ibrahim-bougaoua/filaprogress",
+    "homepage": "https://github.com/esagod/filaprogress",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ibrahim Bougaoua",
-            "email": "41789518+ibrahimBougaoua@users.noreply.github.com",
+            "name": "esagod",
+            "email": "45182746+esagod@users.noreply.github.com",
             "role": "Developer"
         }
     ],
@@ -35,13 +35,13 @@
     },
     "autoload": {
         "psr-4": {
-            "IbrahimBougaoua\\FilaProgress\\": "src/",
-            "IbrahimBougaoua\\FilaProgress\\Database\\Factories\\": "database/factories/"
+            "Esagod\\FilaProgress\\": "src/",
+            "Esagod\\FilaProgress\\Database\\Factories\\": "database/factories/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "IbrahimBougaoua\\FilaProgress\\Tests\\": "tests/",
+            "Esagod\\FilaProgress\\Tests\\": "tests/",
             "Workbench\\App\\": "workbench/app/"
         }
     },
@@ -73,10 +73,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "IbrahimBougaoua\\FilaProgress\\FilaProgressServiceProvider"
+                "Esagod\\FilaProgress\\FilaProgressServiceProvider"
             ],
             "aliases": {
-                "FilaProgress": "IbrahimBougaoua\\FilaProgress\\Facades\\FilaProgress"
+                "FilaProgress": "Esagod\\FilaProgress\\Facades\\FilaProgress"
             }
         }
     },

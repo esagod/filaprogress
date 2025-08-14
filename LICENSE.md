@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) IbrahimBougaoua <41789518+ibrahimBougaoua@users.noreply.github.com>
+Copyright (c) Esagod <45182746+esagod@users.noreply.github.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

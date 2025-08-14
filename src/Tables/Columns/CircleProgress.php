@@ -1,6 +1,6 @@
 <?php
 
-namespace IbrahimBougaoua\FilaProgress\Tables\Columns;
+namespace Esagod\FilaProgress\Tables\Columns;
 
 use Filament\Tables\Columns\Column;
 

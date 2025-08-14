@@ -1,6 +1,6 @@
 <?php
 
-namespace IbrahimBougaoua\FilaProgress;
+namespace Esagod\FilaProgress;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;

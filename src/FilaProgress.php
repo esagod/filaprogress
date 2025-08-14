@@ -1,5 +1,5 @@
 <?php
 
-namespace IbrahimBougaoua\FilaProgress;
+namespace Esagod\FilaProgress;
 
 class FilaProgress {}
